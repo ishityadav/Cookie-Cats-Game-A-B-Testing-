@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30333822/README.md)
 # Mobile Game A/B Testing - Gate Placement & Retention
 
 **Tools:** Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib
